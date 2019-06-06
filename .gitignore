@@ -1,0 +1,27 @@
+
+### symfony/framework-bundle ###
+/.env
+/.env.local
+/.env.local.php
+/.env.*.local
+/public/bundles/
+/var/
+/vendor/
+/node_modules
+
+
+### symfony/web-server-bundle ###
+/.web-server-pid
+
+### PhpStorm IDEA ###
+.idea
+.idea/workspace.xml
+
+### Mac ###
+/.DS_Store
+
+### Upload Images ###
+/public/uploads/images
+
+### Migrations ##
+/src/Migrations/
